@@ -1,0 +1,13 @@
+node_modules
+database.rules.json
+firebase.rules
+package-lock.json
+package.json
+.env
+deployment_config.json
+build/
+y
+
+
+
+ 
